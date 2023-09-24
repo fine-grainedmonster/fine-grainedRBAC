@@ -1,0 +1,8 @@
+2023-09-14 21:21:43[errormiddleware.js] error: "200 - OK - Patient validation failed: patientId: please insert a patient ID - /api/patient//register - POST - ::1"
+2023-09-14 21:22:32[errormiddleware.js] info: "  patient with patientid: abc123 created coode:200 - OK - /api/patient//register - POST - ::1 "
+2023-09-15 09:53:18[errormiddleware.js] error: "400 - Bad Request - user already exist - /api/patient//register - POST - ::1"
+2023-09-15 09:55:32[errormiddleware.js] info: "  patient with patientid: PAtient098 created coode:200 - OK - /api/patient//register - POST - ::1 "
+2023-09-15 09:58:13[errormiddleware.js] info: "  patient with patientid: PAmont876 created coode:200 - OK - /api/patient//register - POST - ::1 "
+2023-09-18 09:07:46[errormiddleware.js] info: "  patient with patientid: zaq12345 created coode:200 - Accepted - /api/patient//register - POST - ::1 "
+2023-09-18 09:22:06[errormiddleware.js] info: "  patient(staff) with patientid: zaq12345 logged in code:200 - OK - /api/patient//login - POST - ::1 "
+2023-09-18 09:39:25[errormiddleware.js] error: "200 - OK - Cannot read properties of null (reading 'View') - /api/patient/data - GET - ::1"

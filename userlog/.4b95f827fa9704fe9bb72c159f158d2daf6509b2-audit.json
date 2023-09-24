@@ -1,0 +1,44 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 30
+    },
+    "auditLog": "userlog\\.4b95f827fa9704fe9bb72c159f158d2daf6509b2-audit.json",
+    "files": [
+        {
+            "date": 1694721711559,
+            "name": "userlog\\129--users.log",
+            "hash": "8c11304588899e08e57c9bd9bd9617e4"
+        },
+        {
+            "date": 1694769195849,
+            "name": "userlog\\1210--users.log",
+            "hash": "2d127d2b885cbbfe6e0a2c5aedbf2c54"
+        },
+        {
+            "date": 1694802109732,
+            "name": "userlog\\127--users.log",
+            "hash": "93461f9f12f4d11952a17d7bb0e6f6b4"
+        },
+        {
+            "date": 1694804504166,
+            "name": "userlog\\128--users.log",
+            "hash": "a48165bf1e4f3ad255b3580030532e5b"
+        },
+        {
+            "date": 1695128175061,
+            "name": "userlog\\121--users.log",
+            "hash": "5291a22a4e3c3a52936900c5ecb95ca6"
+        },
+        {
+            "date": 1695337588697,
+            "name": "userlog\\124--users.log",
+            "hash": "8d9f9e9697a5aeeb53b3fb0f8fe56ffe"
+        },
+        {
+            "date": 1695369165172,
+            "name": "userlog\\1212--users.log",
+            "hash": "a85cc61721b7e9463833655f1886131c"
+        }
+    ]
+}

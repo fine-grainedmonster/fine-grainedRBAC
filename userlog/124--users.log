@@ -1,0 +1,5 @@
+2023-09-22 04:34:00[errormiddleware.js] info: "  patient(staff) with patientid: PAmont876 logged in code:200 - OK - /api/patient//login?patientId=1234abc&password=13245768 - POST - ::1 "
+2023-09-22 04:35:59[errormiddleware.js] error: "400 - Bad Request - user already exist - /api/patient//register - POST - ::1"
+2023-09-22 04:50:28[errormiddleware.js] info: "  patient with patientid: 123456abcd created coode:200 - Accepted - /api/patient//register - POST - ::1 "
+2023-09-22 04:52:53[errormiddleware.js] error: "200 - OK - Cannot read properties of null (reading 'Add') - /api/patient//diagnosis?Id=650d7f84ec3327de6b7a5443&patientId=123456abcd&Diagnosis=fever - POST - ::1"
+2023-09-22 04:56:31[errormiddleware.js] error: "200 - OK - Cannot read properties of null (reading 'Add') - /api/patient/diagnosis?Id=650d7f84ec3327de6b7a5443&patientId=123456abcd&Diagnosis=fever - POST - ::1"

@@ -1,0 +1,54 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 30
+    },
+    "auditLog": "serverlog\\.79425385bd4c2b797710ad2e603880752ba53853-audit.json",
+    "files": [
+        {
+            "date": 1694721711553,
+            "name": "serverlog\\129--server.log",
+            "hash": "3998b22a3472f7c712c1a90a492a1160"
+        },
+        {
+            "date": 1694768872554,
+            "name": "serverlog\\1210--server.log",
+            "hash": "af82f50f2f9ef0727006d76a6ae74772"
+        },
+        {
+            "date": 1694772070995,
+            "name": "serverlog\\1211--server.log",
+            "hash": "208640c10d5679af081ea5432af4227a"
+        },
+        {
+            "date": 1694802110237,
+            "name": "serverlog\\127--server.log",
+            "hash": "bc6274510d0329d75d9082d18894a955"
+        },
+        {
+            "date": 1694804472744,
+            "name": "serverlog\\128--server.log",
+            "hash": "1e9c4d6dddfa9a47020ecbd38a09b734"
+        },
+        {
+            "date": 1695128175053,
+            "name": "serverlog\\121--server.log",
+            "hash": "d58f9c18522a0f1d51cd9f2317b7f10b"
+        },
+        {
+            "date": 1695337588689,
+            "name": "serverlog\\124--server.log",
+            "hash": "1a64186009e81ac02dafac9a996a514e"
+        },
+        {
+            "date": 1695369165164,
+            "name": "serverlog\\1212--server.log",
+            "hash": "2338a6a0adcd75e59484627dc1e1793b"
+        },
+        {
+            "date": 1695384164915,
+            "name": "serverlog\\125--server.log",
+            "hash": "b93294fd7bea1fabedeed5d9bc4295d8"
+        }
+    ]
+}
